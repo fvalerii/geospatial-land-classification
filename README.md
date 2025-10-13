@@ -5,18 +5,16 @@ The capstone project, completed as part of the IBM Deep Learning with Keras and 
 The project simulates an AI Engineer role at a fertilizer company, where the core objective is to develop and rigorously compare state=of the=art deep learning models for accurately classifying terrain (e.g. crops, forests, water bodies)
 The entire deep learning pipeline was implemented from custom geospatial data handling to comparative model analysis, showcasing expertise across leading deep learning frameworks.
 
-🛠️ Key Technologies & Skills Demonstrated
+### Key Technologies & Skills Demonstrated
+Category	                  Skills & Tools
+Deep Learning Frameworks	  Keras (TensorFlow) and PyTorch
+Model Architectures           Convolutional Neural Networks (CNNs) and Vision Transformers (ViT)
+Data Handling                 Geospatial Image Data Loading (memory-based vs. generator-based), Data Augmentation, Preprocessing
+Advanced Techniques           Transfer Learning (fine-tuning pre-trained models)
+Performance Evaluation        Accuracy, Precision, Recall, F1​-score, AU-ROC
+Deliverables                  Jupyter Notebooks (technical rigor) and Professional Project Report
 
-Category	Skills & Tools
-Deep Learning Frameworks	Keras (TensorFlow) and PyTorch
-Model Architectures	Convolutional Neural Networks (CNNs) and Vision Transformers (ViT)
-Data Handling	Geospatial Image Data Loading (memory-based vs. generator-based), Data Augmentation, Preprocessing
-Advanced Techniques	Transfer Learning (fine-tuning pre-trained models)
-Performance Evaluation	Accuracy, Precision, Recall, F1​-score, AU-ROC
-Deliverables	Jupyter Notebooks (technical rigor) and Professional Project Report
-
-🎯 Deliverables and Core Achievements
-
+### Deliverables and Core Achievements
 1. Robust Deep Learning Model Development
 
     CNN Implementation: Developed and trained independent CNN models using both Keras and PyTorch to solve the land classification problem.
@@ -35,8 +33,7 @@ Deliverables	Jupyter Notebooks (technical rigor) and Professional Project Report
 
     Documentation: Produced a final, professional project report detailing the methodology, comparative results, performance insights, and future application ideas.
 
-🗺️ Project Structure (Four Modules)
-
+### Project Structure (Four Modules)
 The project was structured across four modules, each focusing on a critical phase of deep learning development:
 
     Data Handling: Focus on efficient data loading (memory vs. generator) and building a custom geospatial data loader.
@@ -47,7 +44,7 @@ The project was structured across four modules, each focusing on a critical phas
 
     Final Project and Course Wrap-Up: Consolidate all work, conduct the final comparative analysis, and submit the professional project report.
 
-📂 Repository Contents
+### Repository Contents
 
     /notebooks: Contains the Jupyter Notebooks demonstrating model training, evaluation, and lab outputs.
 
