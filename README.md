@@ -12,7 +12,7 @@ The entire deep learning pipeline was implemented from custom geospatial data ha
 | Model Architectures  | Convolutional Neural Networks (CNNs), Vision Transformers (ViT) and Hybrid CNN-ViT model  |
 | Data Handling  | Geospatial Image Data Loading (memory-based vs. generator-based), Data Augmentation, Preprocessing  |
 | Advanced Techniques  | Transfer Learning (fine-tuning pre-trained models) |
-| Performance Evaluation  | Accuracy, Precision, Recall, F1​-score, AU-ROC  |
+| Performance Evaluation  | Accuracy, Precision, Recall, F1​-score, AU-ROC, Confusion Matrix  |
 | Deliverables  | Jupyter Notebooks (technical rigor)  |
 
 ### Deliverables and Core Achievements
