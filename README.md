@@ -6,8 +6,8 @@ The project simulates an AI Engineer role at a fertilizer company, where the cor
 The entire deep learning pipeline was implemented from custom geospatial data handling to comparative model analysis, showcasing expertise across leading deep learning frameworks.
 
 ### Key Technologies & Skills Demonstrated
-Category	                  Skills & Tools
-Deep Learning Frameworks	  Keras (TensorFlow) and PyTorch
+Category	                  |               Skills & Tools
+Deep Learning Frameworks	  |               Keras (TensorFlow) and PyTorch
 Model Architectures           Convolutional Neural Networks (CNNs) and Vision Transformers (ViT)
 Data Handling                 Geospatial Image Data Loading (memory-based vs. generator-based), Data Augmentation, Preprocessing
 Advanced Techniques           Transfer Learning (fine-tuning pre-trained models)
