@@ -1,0 +1,24 @@
+name: vit-research
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+      # --- Core Data Science Stack ---
+      - numpy==1.26.0
+      - pandas==2.2.3
+      - matplotlib==3.9.2
+      - scikit-learn==1.7.0
+      
+      # --- Deep Learning Frameworks ---
+      - tensorflow==2.19.0
+      - torch==2.7.0
+      - torchvision==0.22.0
+      
+      # --- Utilities & Course Specifics ---
+      - requests
+      - pillow
+      - ipykernel  # Required to run the environment in Jupyter
