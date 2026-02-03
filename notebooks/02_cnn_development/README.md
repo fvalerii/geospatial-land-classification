@@ -1,0 +1,1 @@
+Focuses on building and benchmarking Convolutional Neural Network (CNN) baselines. The same architectures are implemented across both Keras and PyTorch to evaluate framework-specific performance and establish a robust accuracy baseline for terrain classification.
