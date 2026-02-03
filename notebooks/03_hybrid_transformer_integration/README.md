@@ -1,0 +1,1 @@
+The project's core research phase. This module implements Vision Transformers (ViT) and a custom Hybrid CNN-ViT architecture. It concludes with a rigorous comparative analysis of how attention mechanisms improve feature extraction in complex geospatial contexts.
