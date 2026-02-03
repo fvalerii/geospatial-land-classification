@@ -1,0 +1,1 @@
+This module covers the ETL pipeline for geospatial satellite imagery. It includes custom data loaders for handling large-scale datasets and compares memory-resident loading versus generator-based streaming for optimized GPU throughput.
