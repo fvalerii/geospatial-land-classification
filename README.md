@@ -1,4 +1,13 @@
-## Capstone Project: Geospatial Land Classification for Agriculture
+# 🛰️ Geospatial Land Classification: CNN & ViT Hybrid Study
+## Geospatial Land Classification Study
+
+
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Expert-EE4C2C?logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-Hybrid%20Model-D00000?logo=keras&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM-Professional%20Capstone-052FAD?logo=ibm&logoColor=white)
+
 
 ### Project Overview
 The capstone project, completed as part of the IBM Deep Learning with Keras and TensorFlow course, focuses on building and advanced land classification system for agricultural applications using satellite imagery.
@@ -30,15 +39,19 @@ The entire deep learning pipeline was implemented from custom geospatial data ha
 
     Model Evaluation: Rigorously evaluated all models using a suite of quantitative metrics, including F1​-score and AU-ROC, to ensure robust and reliable performance for a real-world application.
 
-### Project Structure
-The project was structured across three modules, each focusing on a critical phase of deep learning development:
+### 📂 Repository Contents
 
-- Data Handling: Focus on efficient data loading (memory vs. generator) and building a custom geospatial data loader.
+The study is organized into a sequential 9-step pipeline:
 
-- CNN Development: Design, train, and evaluate CNN models in both Keras and PyTorch.
-    
-- CNN - Vision Transformer Integration: pre-trained CNN models were integrated with Vision Transformer models, and the resulting hybrid model was then fine-tuned for land classification.
+- **01-03: Data Engineering** – Geospatial loading, custom augmentation, and preprocessing.
+- **04-06: CNN Development** – Implementing and evaluating baselines in Keras and PyTorch.
+- **07-09: Advanced Integration** – Master-level implementation of Vision Transformers (ViT) and a custom Hybrid CNN-ViT integration.
 
-### Repository Contents
+## 📊 Dataset
+The project utilizes the **EuroSAT-style Geospatial Dataset** (Land Use and Land Cover Classification). 
+The raw data is fetched automatically within the notebooks from the public IBM Cloud Object Storage:
+- **Source URL:** [images-dataSAT.tar](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/5vTzHBmQUaRNJQe5szCyKw/images-dataSAT.tar)
 
-    /notebooks: Contains the Jupyter Notebooks demonstrating model training, evaluation, and lab outputs.
+
+📜 Attributions & License
+This project was developed as a Capstone for the IBM Deep Learning Professional Certificate. The core datasets and initial lab structures are provided by IBM Skills Network under their educational terms. All model implementations, hybrid architecture integration, and comparative analyses were performed by me as part of this study.
