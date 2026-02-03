@@ -30,7 +30,7 @@ The entire deep learning pipeline was implemented from custom geospatial data ha
 
     Model Evaluation: Rigorously evaluated all models using a suite of quantitative metrics, including F1​-score and AU-ROC, to ensure robust and reliable performance for a real-world application.
 
-### Project Structure (Four Modules)
+### Project Structure
 The project was structured across three modules, each focusing on a critical phase of deep learning development:
 
 - Data Handling: Focus on efficient data loading (memory vs. generator) and building a custom geospatial data loader.
