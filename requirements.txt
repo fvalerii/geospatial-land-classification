@@ -10,5 +10,7 @@ torch==2.7.0
 torchvision==0.22.0
 
 # --- Utilities & Course Specifics ---
-requests
-pillow
+requests==2.32.3
+Pillow==11.0.0
+tqdm==4.66.5
+ipywidgets==8.1.5

@@ -11,26 +11,26 @@
 ---
 
 ## 📋 Project Overview
-The capstone project, completed as part of the IBM Deep Learning with Keras and TensorFlow course, focuses on building and advanced land classification system for agricultural applications using satellite imagery.
-The project simulates an AI Engineer role at a fertilizer company, where the core objective is to develop and rigorously compare state=of the=art deep learning models for accurately classifying terrain (e.g. crops, forests, water bodies)
-The entire deep learning pipeline was implemented from custom geospatial data handling to comparative model analysis, showcasing expertise across leading deep learning frameworks.
+The capstone project, completed as part of the IBM Deep Learning Professional Certificate, focuses on building an advanced land classification system for agricultural applications using satellite imagery. 
+
+The project simulates an AI Engineer role at a fertilizer company, where the core objective is to develop and rigorously compare state-of-the-art deep learning models for accurately classifying terrain (e.g., crops, forests, water bodies). The entire deep learning pipeline was implemented—from custom geospatial data handling to comparative model analysis—showcasing expertise across leading deep learning frameworks.
 
 ---
 
 ## Final Results
-1. Robust Deep Learning Model Development
+1. **Robust Deep Learning Model Development**
 
-    CNN Implementation: Developed and trained independent CNN models using both Keras and PyTorch to solve the land classification problem.
+    **CNN Implementation:** Developed and trained independent CNN models using both Keras and PyTorch to solve the land classification problem.
 
-    Vision Transformer Integration:  Designed and implemented a hybrid deep learning model by integrating features from pre-trained CNNs and Vision Transformers. The entire combined architecture was then fine-tuned to optimize performance for the agricultural land classification task.
+    **Vision Transformer Integration:**  Designed and implemented a hybrid deep learning model by integrating features from pre-trained CNNs and Vision Transformers. The entire combined architecture was then fine-tuned to optimize performance for the agricultural land classification task.
 
-    Comparative Analysis: Conducted a comprehensive comparative study of CNNs and Hybrid CNN-Vision Transformer performance across the two major frameworks.
+    **Comparative Analysis:** Conducted a comprehensive comparative study of CNNs and Hybrid CNN-Vision Transformer performance across the two major frameworks.
 
-2. Full-Cycle Deep Learning Pipeline
+2. **Full-Cycle Deep Learning Pipeline**
 
-    Data Handling: Implemented efficient techniques for geospatial image dataset loading and applied custom data augmentation strategies in both Keras and PyTorch.
+    **Data Handling:** Implemented efficient techniques for geospatial image dataset loading and applied custom data augmentation strategies in both Keras and PyTorch.
 
-    Model Evaluation: Rigorously evaluated all models using a suite of quantitative metrics, including F1​-score and AU-ROC, to ensure robust and reliable performance for a real-world application.
+    **Model Evaluation:** Rigorously evaluated all models using a suite of quantitative metrics, including F1​-score and AU-ROC, to ensure robust and reliable performance for a real-world application.
 
 ---
 
@@ -62,11 +62,11 @@ The raw data is fetched automatically within the notebooks from the public IBM C
 ## ⚙️ Execution Guide
 
 ### **Option A: Colab Execution (Cloud)**
-Select the Colab badge at the left top of each individual notebook.
+Click on the link in the Colab Access tab in the table [🚀 Research Pipeline & Notebooks](### 🚀 Research Pipeline & Notebooks).
 
 ### **Option B: Local Execution (WSL2/GPU)**
 Recommended for leveraging local GPU acceleration.
-```
+
 ### **1. Environment Setup** 
 It is recommended to use an environment with Python 3.12.8:
 ##### Using Conda (Recommended):
@@ -79,7 +79,7 @@ conda activate vit-research
 pip install -r requirements.txt
 ```
 ### *3. Run the Research Study**
-Open the notebook in VS Code or Jupyter
+Navigate to the `notebooks/` directory and launch the modules via VS Code or Jupyter Lab.
 
 ---
 
