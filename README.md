@@ -40,6 +40,8 @@ The project simulates an AI Engineer role at a fertilizer company, where the cor
 
 ## 📂 Repository Contents
 
+The research is organized into three distinct phases, each contained within its own subfolder featuring a localized README for specific implementation details:
+
 ### 🚀 Research Pipeline & Notebooks
 
 | # | Phase | Technical Focus | Colab Access |
