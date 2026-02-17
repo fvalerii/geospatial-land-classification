@@ -19,7 +19,7 @@ The project simulates an AI Engineer role at a fertilizer company, where the cor
 
 ## Final Results
 
-![Hybrid Model Comparison](images/comparison_table.png)
+![Hybrid Model Comparison](images/hybrid_comparison_table.png)
 
 1. **Robust Deep Learning Model Development**
 
