@@ -18,6 +18,9 @@ The project simulates an AI Engineer role at a fertilizer company, where the cor
 ---
 
 ## Final Results
+
+![Hybrid Model Comparison](images/comparison_table.png)
+
 1. **Robust Deep Learning Model Development**
 
     **CNN Implementation:** Developed and trained independent CNN models using both Keras and PyTorch to solve the land classification problem.
@@ -31,6 +34,7 @@ The project simulates an AI Engineer role at a fertilizer company, where the cor
     **Data Handling:** Implemented efficient techniques for geospatial image dataset loading and applied custom data augmentation strategies in both Keras and PyTorch.
 
     **Model Evaluation:** Rigorously evaluated all models using a suite of quantitative metrics, including F1​-score and AU-ROC, to ensure robust and reliable performance for a real-world application.
+
 
 ---
 
@@ -78,7 +82,7 @@ conda activate vit-research
 ```bash
 pip install -r requirements.txt
 ```
-### *3. Run the Research Study**
+### **2. Run the Research Study**
 Navigate to the `notebooks/` directory and launch the modules via VS Code or Jupyter Lab.
 
 ---
